@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Xian&#39;s note</title>
+        <description>Xian&#39;s note - 張 伍賢</description>
+        <link>http://jack482653.github.io</link>
+        <atom:link href="http://jack482653.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 18 Oct 2015 23:05:24 +0800</lastBuildDate>
+        <pubDate>Sun, 18 Oct 2015 23:05:24 +0800</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>測試 MathJax</title>
+                <description>
+&lt;p&gt;來測試一下MathJax的功能。&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;方程式&lt;/h1&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;a^2 + b^2 = c^2&lt;/script&gt;
+\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \]
+看起來應該OK。&lt;/p&gt;
+</description>
+                <link>http://jack482653.github.io/2015/10/18/-mathjax</link>
+                <guid>http://jack482653.github.io/2015/10/18/-mathjax</guid>
+                <pubDate>Sun, 18 Oct 2015 00:00:00 +0800</pubDate>
+        </item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,12 @@
+
+http://jack482653.github.io/archive.html
+http://jack482653.github.io/atom.xml
+http://jack482653.github.io/categories.html
+http://jack482653.github.io/index.html
+http://jack482653.github.io/index_back.html
+http://jack482653.github.io/pages.html
+http://jack482653.github.io/rss.xml
+http://jack482653.github.io/sitemap.txt
+http://jack482653.github.io/tags.html
+
+http://jack482653.github.io/2015/10/18/-mathjax
