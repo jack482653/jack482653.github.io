@@ -37,3 +37,10 @@ tags: []
       ![Monothetic partitional clustering]({{ site.url }}/assets/{{ page.title }}/Monothetic partitional clustering.png)
       1. 根據 feature \\(X_1\\)，找到一直線\\(V\\)，分割出1、2和3、4兩塊。
       2. 再根據 feature \\(X_2\\)，找到兩直線\\(H_1\\)和\\(H_2\\)，分成1、2、3、4共四塊。
+* Hard vs Fuzzy
+    * Hard
+        * 演算法直接分配點到一個 cluster。
+    * Fuzzy
+        * 每一個點可能屬於一個或多個 cluster。
+        * 演算法計算點屬於哪一群的可能性。
+        * 取可能性最大的群加入 -> 退化成Hard。
