@@ -9,4 +9,5 @@ http://jack482653.github.io/rss.xml
 http://jack482653.github.io/sitemap.txt
 http://jack482653.github.io/tags.html
 
+http://jack482653.github.io/2015/10/19/data-clustering
 http://jack482653.github.io/2015/10/18/-mathjax
