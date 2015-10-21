@@ -5,8 +5,8 @@
         <description>Xian&#39;s note - 張 伍賢</description>
         <link>http://jack482653.github.io</link>
         <atom:link href="http://jack482653.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Oct 2015 12:17:42 +0800</lastBuildDate>
-        <pubDate>Tue, 20 Oct 2015 12:17:42 +0800</pubDate>
+        <lastBuildDate>Wed, 21 Oct 2015 17:27:34 +0800</lastBuildDate>
+        <pubDate>Wed, 21 Oct 2015 17:27:34 +0800</pubDate>
         <ttl>60</ttl>
 
 
@@ -133,7 +133,10 @@
         &lt;ul&gt;
           &lt;li&gt;兩群的相似性：\( distance(C_1, C_2) = min \text{ } distance(a, b) \text{, } \forall a \in C_1 \text{, } b \in C_2 \)&lt;/li&gt;
           &lt;li&gt;Chaining effect: a tendency to produce clusters that are straggly or elongated.&lt;/li&gt;
+          &lt;li&gt;有辦法分開同心圓的資料。&lt;/li&gt;
         &lt;/ul&gt;
+
+        &lt;p&gt;&lt;img src=&quot;/assets/Data Clustering/Two concentric clusters.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;Complete-Link
         &lt;ul&gt;
