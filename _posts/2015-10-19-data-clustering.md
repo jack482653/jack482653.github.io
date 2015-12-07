@@ -2,7 +2,7 @@
 layout: post
 title: "Data Clustering"
 description: ""
-category:筆記
+category: 筆記
 tags: [Clustering]
 ---
 {% include JB/setup %}
@@ -67,7 +67,6 @@ tags: [Clustering]
     * 兩群的相似性：\\( distance(C_1, C_2) = min \text{ } distance(a, b) \text{, } \forall a \in C_1 \text{, } b \in C_2 \\)
     * Chaining effect: a tendency to produce clusters that are straggly or elongated.
     * 有辦法分開同心圓的資料。
-    ![]({{ site.url }}/assets/{{ page.title }}/Two concentric clusters.png)
   * Complete-Link
     * 兩群的相似性：\\( distance(C_1, C_2) = max \text{ } distance(a, b) \text{, } \forall a \in C_1 \text{, } b \in C_2 \\)
   * Minimum-Variance

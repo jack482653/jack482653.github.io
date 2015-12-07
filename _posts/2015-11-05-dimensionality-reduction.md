@@ -7,6 +7,8 @@ tags: [Machine Learning, Course]
 ---
 {% include JB/setup %}
 
+<!-- more -->
+
 ## Why dimensionality reduction?
 
 * 小資料集（ N 小），降低維度（1000維降到100維）有機會增進分類器的 performance 。

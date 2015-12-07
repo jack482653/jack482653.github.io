@@ -6,7 +6,9 @@ category: Course
 tags: [Machine Learning, Course]
 ---
 {% include JB/setup %}
+
 <!-- more -->
+
 ## Data Preprocessing
 
 * p6
