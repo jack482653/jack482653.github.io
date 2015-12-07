@@ -2,8 +2,8 @@
 layout: post
 title: "Data Clustering"
 description: ""
-category:
-tags: []
+category:筆記
+tags: [Clustering]
 ---
 {% include JB/setup %}
 
@@ -67,8 +67,11 @@ tags: []
     * 兩群的相似性：\\( distance(C_1, C_2) = min \text{ } distance(a, b) \text{, } \forall a \in C_1 \text{, } b \in C_2 \\)
     * Chaining effect: a tendency to produce clusters that are straggly or elongated.
     * 有辦法分開同心圓的資料。
-
     ![]({{ site.url }}/assets/{{ page.title }}/Two concentric clusters.png)
   * Complete-Link
     * 兩群的相似性：\\( distance(C_1, C_2) = max \text{ } distance(a, b) \text{, } \forall a \in C_1 \text{, } b \in C_2 \\)
   * Minimum-Variance
+* Hierarchical Agglomerative Clustering Algorithm
+  1. 計算距離矩陣（proximity/distance matrix，\\( A_{ij} \\)表示點i和點j的距離），將每一個點視為一個 cluster 。
+  2. 用距離矩陣找出兩個最相近的 cluster ，合併，並更新距離矩陣。
+  3. 重複步驟二，直到只剩下一個 cluster 。
